@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     },
     buttonCalculator:{
         borderRadius:50,
-        alignItems:"cener",
+        alignItems:"center",
         justifyContent:"center",
         width:"90%",
         backgroundColor:"#FF0043",
@@ -42,10 +42,6 @@ const styles = StyleSheet.create({
         marginLeft: 12,
         marginTop: 30,
     },
-    textButtonCalculator:{
-        fontSize:20,
-        color:"#ffffff",
-    }
 
 });
 
