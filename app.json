@@ -26,10 +26,15 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.yourcompany.yourappname",
-    "versionCode": 1
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d38b3605-8387-4d0b-b44e-280742898d76"
+      }
     }
   }
 }

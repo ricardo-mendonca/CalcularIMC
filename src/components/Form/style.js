@@ -39,8 +39,8 @@ const styles = StyleSheet.create({
         backgroundColor:"#FF0043",
         paddingTop:14,
         paddingBottom:14,
-        marginLeft:12,
-        margin:30,
+        marginLeft: 12,
+        marginTop: 30,
     },
     textButtonCalculator:{
         fontSize:20,
